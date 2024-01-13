@@ -1,1 +1,1 @@
-tokenac = ""
+tokenac = "" # ваш access_token, для получени я используйте сайт https://vkhost.github.io/
